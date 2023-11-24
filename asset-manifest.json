@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accordion-card-questions/static/css/main.ab700d15.css",
+    "main.js": "/accordion-card-questions/static/js/main.2fef1e0b.js",
+    "index.html": "/accordion-card-questions/index.html",
+    "main.ab700d15.css.map": "/accordion-card-questions/static/css/main.ab700d15.css.map",
+    "main.2fef1e0b.js.map": "/accordion-card-questions/static/js/main.2fef1e0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab700d15.css",
+    "static/js/main.2fef1e0b.js"
+  ]
+}
